@@ -4,3 +4,7 @@ They vary from one '#' symbol for H1 heading to six '######' for H6 heading.
 
 For exmaple: 
 ###### This is an H6 heading.
+
+## Adding an Image in Markdown
+#### The text in square brackets is alt-text if the image is not shown.
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
